@@ -9,6 +9,7 @@ These are some simple code examples I wrote up to help learn Node.js Streams.
 * *stream4.js*: Tranform based on JSON input from a file (stream4.json) using a single transform, plus adding a method to the objects
 * *stream5.js*: Same as stream4 but stripped into more granular transforms
 * *streams6.js*: Same as stream5 but JSON input is from an http.request response rather than local file
+* *streams7.js*: Spawn a UNIX command ('who') and process its stdout using pipes
 
 # See also:
 
