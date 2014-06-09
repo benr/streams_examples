@@ -1,0 +1,8 @@
+[ 
+  { "host": "host1", "state": "good", "total_ram": 100, "used_ram": 50  },
+  { "host": "host2", "state": "good", "total_ram": 100, "used_ram": 20  },
+  { "host": "host3", "state": "bad",  "total_ram": 100, "used_ram": 10  },
+  { "host": "host4", "state": "good", "total_ram": 100, "used_ram": 80  }
+]
+  
+
